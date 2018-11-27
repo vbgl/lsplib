@@ -1,5 +1,6 @@
 (library 
   (libraries core unix)
+  (public_name lsplib)
   (name lsplib))
 (env
   (dev
